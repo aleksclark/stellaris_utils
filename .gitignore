@@ -10,6 +10,7 @@
 
 # Libraries
 *.lib
+*.d
 *.a
 *.la
 *.lo
